@@ -1,0 +1,14 @@
+body {
+  background-color: beige !important;
+  color: black !important;
+}
+
+.principal {
+  background-color: beige !important;
+}
+
+html,
+body {
+  overflow-x: hidden !important;
+  max-width: 100% !important;
+}
